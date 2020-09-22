@@ -11,6 +11,7 @@ const product5 = require('./product5.png')
 const search = require('./search.png')
 const starDefault = require('./starDefault.png')
 const startActive = require('./startActive.png')
+const appicon = require('./app_icon.png')
 
 export {
   avatar,
@@ -26,4 +27,5 @@ export {
   search,
   starDefault,
   startActive,
+  appicon,
 }

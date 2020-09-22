@@ -5,7 +5,7 @@ const App = (props) => {
   const { } = props
   return (
     <View style={{ flex: 1 }}>
-      <Text />
+      <Text>appp</Text>
     </View>
   )
 }
